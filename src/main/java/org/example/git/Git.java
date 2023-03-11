@@ -12,6 +12,6 @@ public class Git {
         System.out.println("hello1234master");
         System.out.println("hello1234hot-fix");
         System.out.println("hello1234hot-fix9999999");
-        System.out.prinIn("i am a girl");
+        System.out.println("i am a girl");
     }
 }
